@@ -15,5 +15,7 @@
 
 ## GitHub Pages
 
-공개 저장소의 루트에서 `main` 브랜치를 배포 소스로 선택합니다. Pages 설정 권한과 URL 응답을 별도로 확인해야 공개 완료로 판정합니다.
+공개 주소: <https://oberstmarkts.github.io/k-won-technologies/>
+
+배포 소스는 `main` 브랜치의 루트입니다. 2026-10-17에 [Pages 배포 작업](https://github.com/oberstmarkts/k-won-technologies/actions/runs/38928699769)의 성공과 공개 URL의 HTTP 200 응답을 확인했습니다.
 
